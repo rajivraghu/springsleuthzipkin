@@ -20,7 +20,7 @@ public class Dummy {
 			 }
 		
 		String s =null;
-		s.length();
+		//s.length();
 		
 		
 	}

@@ -21,7 +21,7 @@ public class KafkaConsumerConfig {
         Map<String, Object> props = new HashMap<>();
         props.put(
           ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, 
-          "bp2-vacp-q021.otxlab.net:9092");
+          "localhost:9092");
         props.put(
           ConsumerConfig.GROUP_ID_CONFIG, 
           "twg_group");
