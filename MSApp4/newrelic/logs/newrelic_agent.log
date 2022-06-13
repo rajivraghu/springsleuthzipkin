@@ -1,0 +1,29 @@
+2022-06-13T07:41:06,850+0000 [14112 1] com.newrelic INFO: Writing to New Relic log file: /workspace/MSApp4/newrelic/logs/newrelic_agent.log
+2022-06-13T07:41:06,850+0000 [14112 1] com.newrelic INFO: JRE vendor Azul Systems, Inc. version 11.0.13
+2022-06-13T07:41:06,851+0000 [14112 1] com.newrelic INFO: JVM vendor Azul Systems, Inc. OpenJDK 64-Bit Server VM version 11.0.13+8-LTS
+2022-06-13T07:41:06,851+0000 [14112 1] com.newrelic INFO: OS Linux version 5.16.20-051620-generic arch amd64
+2022-06-13T07:41:06,851+0000 [14112 1] com.newrelic INFO: Agent Host: rajivraghu-springsleuth-sn19x7gj6w2 IP: 127.0.0.1
+2022-06-13T07:41:06,851+0000 [14112 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-06-13T07:41:07,433+0000 [14112 15] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-06-13T07:41:08,208+0000 [14112 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-06-13T07:41:08,425+0000 [14112 1] com.newrelic INFO: Setting audit_mode to false
+2022-06-13T07:41:08,551+0000 [14112 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /workspace/MSApp4/newrelic/./newrelic.yml
+2022-06-13T07:41:08,556+0000 [14112 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-06-13T07:41:08,557+0000 [14112 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@13deb50e
+2022-06-13T07:41:08,557+0000 [14112 1] com.newrelic INFO: Premain startup complete in 2,339ms
+2022-06-13T07:41:11,820+0000 [14112 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.22
+2022-06-13T07:41:13,556+0000 [14112 37] com.newrelic INFO: Host name is rajivraghu-springsleuth-sn19x7gj6w2, display host rajivraghu-springsleuth-sn19x7gj6w2 for application MSApp4
+2022-06-13T07:41:13,557+0000 [14112 37] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-06-13T07:41:13,938+0000 [14112 37] com.newrelic INFO: Collector redirection to collector-009.newrelic.com:443
+2022-06-13T07:41:14,412+0000 [14112 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-06-13T07:41:14,412+0000 [14112 37] com.newrelic INFO: Agent run id: BW7qMG7S5FEXADWOblMB2yBipuqEAAIBAAAnIQEAADcgAgRTAdqHAwAFNy43LjAAI3Jhaml2cmFnaHUtc3ByaW5nc2xldXRoLXNuMTl4N2dqNncyAAZNU0FwcDQ
+2022-06-13T07:41:14,412+0000 [14112 37] com.newrelic INFO: Agent 14112@rajivraghu-springsleuth-sn19x7gj6w2/MSApp4 connected to collector.newrelic.com:443
+2022-06-13T07:41:14,413+0000 [14112 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3509870/applications/1392630407
+2022-06-13T07:41:14,414+0000 [14112 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-06-13T07:41:14,414+0000 [14112 37] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-06-13T07:41:14,414+0000 [14112 37] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-06-13T07:41:14,416+0000 [14112 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-06-13T07:41:14,416+0000 [14112 37] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-06-13T07:41:14,416+0000 [14112 37] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-06-13T07:41:14,783+0000 [14112 37] com.newrelic INFO: Real user monitoring is enabled for application MSApp4. Auto instrumentation is enabled.
+2022-06-13T07:41:14,784+0000 [14112 37] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
